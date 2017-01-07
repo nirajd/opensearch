@@ -1,2 +1,2 @@
-# os-archwiki
-opensearch xml for arch wiki
+# Opensearch
+opensearch xml for sites I use
